@@ -266,7 +266,7 @@ section .button button:hover{
  /*---------------------------- My Skills CSS------------------------------ */
  .skills{
   display: flex;
-  justify-content: space-between;
+  gap: 100px;
  }
  .progress-container {
   width: 100%;
